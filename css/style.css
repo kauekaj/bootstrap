@@ -16,10 +16,14 @@ body {
     padding-bottom: 30px;
 }
 
-h2 {
-    padding: 15px;
+.parceiros {
+    background-color: rgb(233, 166, 85);
 }
 
-h3 {
-    padding: 15px;
+.bg-footer {
+    background-color: black;
+    color: white;
 }
+
+
+
